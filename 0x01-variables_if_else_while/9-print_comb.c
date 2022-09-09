@@ -15,7 +15,7 @@ int main(void)
 	row = 'a';
 	for (low = 0; low < 10; low++)
 	{											putchar(low + '0');							}
-	for (low = 10; low <= 15; low++
+	for (low = 10; low <= 15; low++)
 	{
 		putchar(row);
 		row++;									}
