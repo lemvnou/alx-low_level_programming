@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	char low;
+	int low;
 	char row;
 
 	row = 'a';
