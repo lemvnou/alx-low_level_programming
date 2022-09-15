@@ -9,7 +9,7 @@
  *Return: Always 0.
  */
 
-int main(void)
+int _putchar(char c)
 
 {
 	char word[8] = "_putchar";
